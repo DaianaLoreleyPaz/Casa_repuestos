@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaRepuestos", "CasaRepuestos.csproj", "{288DDF53-47C8-42EB-9855-65500738407A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaRepuestos.Tests", "..\CasaRepuestos.Tests\CasaRepuestos.Tests.csproj", "{A3FB8ED2-EA35-4650-8029-59295AF65F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288DDF53-47C8-42EB-9855-65500738407A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288DDF53-47C8-42EB-9855-65500738407A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288DDF53-47C8-42EB-9855-65500738407A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288DDF53-47C8-42EB-9855-65500738407A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FB8ED2-EA35-4650-8029-59295AF65F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FB8ED2-EA35-4650-8029-59295AF65F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FB8ED2-EA35-4650-8029-59295AF65F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FB8ED2-EA35-4650-8029-59295AF65F12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85D31BE-8ADC-402C-AEA7-69B11D908808}
+	EndGlobalSection
+EndGlobal
